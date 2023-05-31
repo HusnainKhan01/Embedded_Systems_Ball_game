@@ -1,0 +1,4 @@
+mpu6050.c:32:5:mpu6050_init	32	static
+mpu6050.c:60:5:isWorking	32	static
+mpu6050.c:82:5:readData	56	static
+mpu6050.c:157:5:printResult	8	static

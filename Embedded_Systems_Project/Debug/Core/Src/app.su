@@ -1,0 +1,9 @@
+app.c:29:6:app_init	8	static
+app.c:62:6:app_loop	8	static
+app.c:95:6:writeScore	24	static
+app.c:111:5:getMpuData	8	static
+app.c:123:6:refresh	8	static
+app.c:132:6:collision	24	static
+app.c:150:6:ballMovementWithSpeed	16	static
+app.c:174:6:moveLine	8	static
+app.c:194:6:slowMoveLine	8	static
